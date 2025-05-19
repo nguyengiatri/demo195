@@ -23,4 +23,4 @@ jobs:
 
       - name: Run notebook test
         run: |
-          pytest --nbval-lax covid_analysis.ipynb
+          pytest --nbval-lax demo195.ipynb
